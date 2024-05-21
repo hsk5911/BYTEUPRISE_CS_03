@@ -42,7 +42,7 @@ The Caesar Cipher script takes a plaintext message and a shift value as input. I
 
 1. Clone the repository to your local machine:
 
-   git clone https://github.com/hsk5911/caesar-cipher.git
+   git clone https://github.com/your-username/caesar-cipher.git
 
 3. Navigate to the project directory:
 
